@@ -1,0 +1,11 @@
+{
+  "name": "meantest",
+  "version": "1.0.0",
+  "description": "nonew",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "davt4",
+  "license": "ISC"
+}
